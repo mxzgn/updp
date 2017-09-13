@@ -1,2 +1,3 @@
 #测试
-servername: account-service
+server:
+  name: account-service
