@@ -1,3 +1,4 @@
 #测试
+environment: prod
 server:
   name: account-service

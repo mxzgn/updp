@@ -1,3 +1,4 @@
 #测试
+environment: uat
 server:
   name: account-service

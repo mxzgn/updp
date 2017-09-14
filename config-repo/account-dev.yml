@@ -1,3 +1,4 @@
 #测试
+environment: dev
 server:
   name: account-service
